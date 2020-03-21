@@ -1,3 +1,5 @@
+<p align="center"><a href="https://discord.gg/q5wCPYv">SWIFT.STREAM COMMUNITY IN DISCORD</a></p>
+
 # VaporEDC
 
-A description of this package.
+This is a helper package for SwifEDC.
